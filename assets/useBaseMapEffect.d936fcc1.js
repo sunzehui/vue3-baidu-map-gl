@@ -1,0 +1,1 @@
+import{i,a as c}from"./app.7001fa61.js";import{a as p}from"./useLife.f2ec7f38.js";function r(e){const{on:s}=p(),t=i("getMapInstance"),a=t&&t();let n;a?n=e(a):s("initd",o=>{n=e(o)}),c(()=>{n&&n()})}export{r as u};
