@@ -1,1 +1,0 @@
-import{_ as e,c as a,o as t,e as o}from"./app.ecc7abfd.js";const u=JSON.parse('{"title":"\u7533\u8BF7 ak","description":"","frontmatter":{},"headers":[],"relativePath":"zh/guide/ak.md","lastUpdated":1667964735000}'),r={name:"zh/guide/ak.md"},c=o("",4),n=[c];function s(_,d,i,p,l,k){return t(),a("div",null,n)}const f=e(r,[["render",s]]);export{u as __pageData,f as default};
