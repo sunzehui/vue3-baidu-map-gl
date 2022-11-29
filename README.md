@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://yue1123.github.io/vue3-baidu-map-gl/zh/" target="_blank" rel="noopener noreferrer">
-  <img src='./docs/public/logo.png' style="overflow:hidden; width:200px;height:200px;border-radius:48px;">
+  <img src='./docs/public/logo.svg' style="overflow:hidden; width:200px;height:200px;border-radius:48px;">
   </a>
 </p>
 
@@ -63,6 +63,9 @@ pnpm add vue3-baidu-map-gl
 ## 参与贡献
 
 一个人精力有限，欢迎大家参与贡献
+
+和代码请提 dev
+
 
 > **环境**
 > pnpm: ">=6.0.0"
